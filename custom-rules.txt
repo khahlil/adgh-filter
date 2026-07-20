@@ -1,4 +1,4 @@
-||pagead2.googlesyndication.com^$dnsrewrite=NOERROR;CNAME;google.com
+||pagead*.googlesyndication.com^$dnsrewrite=NOERROR;A;150.171.28.11
 @@|aus*.mozilla.org^$important
 @@||api.onesignal.com^$important
 @@||instabug.com^$important
