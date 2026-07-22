@@ -1,12 +1,3 @@
-||googlesyndication.com^$dnsrewrite=NOERROR;A;182.253.48.123
-||*tiktok*^$dnsrewrite=NOERROR;A;182.253.48.123
-||*byte*^$dnsrewrite=NOERROR;A;182.253.48.123
-||*instagram*^$dnsrewrite=NOERROR;A;182.253.48.123
-||*netflix*^$dnsrewrite=NOERROR;A;182.253.48.123
-||nflxext.com^$dnsrewrite=NOERROR;A;182.253.48.123
-||netflic.com^$dnsrewrite=NOERROR;A;182.253.48.123
-||bili*^$dnsrewrite=NOERROR;A;182.253.48.123
-||*bstar*^$dnsrewrite=NOERROR;A;182.253.48.123
 @@|aus*.mozilla.org^$important
 @@||api.onesignal.com^$important
 @@||instabug.com^$important
