@@ -27,7 +27,6 @@
 ||igamecj.com^$client='TP-Link'
 ||gvt1.com^$client='TP-Link'
 ||c.youtube.com^$client='TP-Link'
-!||googlevideo.com^$client='TP-Link'
 ||taobao.com^$important
 ||ocra.api.sinch.com^$important
 ||crazygames.com^$important
