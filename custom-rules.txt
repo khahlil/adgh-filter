@@ -154,7 +154,6 @@
 ||live-stream.tokopedia.net^$important
 ||video.tokopedia.com^$important
 ||groupchat.tokopedia.com^$important
-||vod*.tokopedia.*^$important
 ||tokopedia.gw-dv.io^$important
 ||mcafee.com^$important
 ||babybus.com^$important
@@ -316,3 +315,12 @@
 ||acr.unruly.co^$important
 ||au.pool.ntp.org^$important
 ||voledevice-pa.googleapis.com^$important
+||snr.whatsapp.net^$important
+||imgcdn.kidoodle.tv^$important
+||asset.samsungvisioncloud.com^$important
+||time1.google.com^$important
+||cloudpush.tokopedia.com^$important
+||dppo-portal.tokopedia.com^$important
+||did.tokopedia.com^$important
+||hub.tokopedia.com^$important
+||*content-sign*.tokopedia-static.net^$important
