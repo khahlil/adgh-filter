@@ -15,7 +15,6 @@
 @@||footprints-pa.googleapis.com^$important
 @@||ipinfo.io^$important
 @@||gojekapi.com^$important
-||igamecj.com^$client='TP-Link'
 ||gvt1.com^$client='TP-Link'
 ||c.youtube.com^$client='TP-Link'
 ||taobao.com^$important
@@ -45,16 +44,12 @@
 ||api.msn.com^$important
 ||edge-mobile-static.azureedge.net^$important
 ||xiaomimobile.com^$important
-||gpubgm.com^$important
 ||vasdgame.com^$important
 ||xunyou.mobi^$important
 ||dl.listdl.com^$important
 ||gcloudcs.com^$important
 ||anticheatexpert.com^$important
-||k.gjacky.com^$important
 ||cloud.gsdk.proximabeta.com^$important
-||cloudctrl.igamecj.com^$important
-||www.pubgmobile.com^$important
 ||yolicart.com^$important
 ||uc*.app^$important
 ||bstation.net^$important
@@ -97,7 +92,6 @@
 ||infohubnews.com^$important
 ||zuimeitianqi.com^$important
 ||live*.shopee.co.id^$important
-||cdngarenanow*.akamaihd.net^$important
 ||*vod*.shopee.com^$important
 ||games*.shopee.co.id^$important
 ||games*.shopeemobile.com^$important
@@ -278,8 +272,6 @@
 ||ucweb.com^$important
 ||ksord.com^$important
 ||*honor*.com^$important
-||content.garena.com^$important
-||imap.gmail.com^$important
 ||boomplay*.com^$important
 ||connectivitycheck.unisoc.com^$important
 ||*capcut*.com^$important
